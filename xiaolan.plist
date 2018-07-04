@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://owpudfk38.bkt.clouddn.com/o_1bqnjbvtk1ndd154faet5o14de9.ipa</string>
+					<string>http://app.wifinb.com/ipa/app/download/2018/0616/xiaolan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://app.ctrler.cn/img/wechat.png</string>
+					<string>https://lbjlaq.github.io/wechat.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>多开神器01-更多好玩关注公众号：Ctrler</string>
+				<string>多开神器蓝色-更多好玩关注公众号：Ctrler</string>
 			</dict>
 		</dict>
 	</array>
